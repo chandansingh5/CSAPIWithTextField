@@ -1,0 +1,6 @@
+framework module Pods_MobiServerUITests {
+  umbrella header "Pods-MobiServerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

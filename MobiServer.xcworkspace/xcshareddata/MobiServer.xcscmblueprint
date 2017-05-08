@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D67D2E8C395C2FDE73A1C17891616C541DFE0087",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "93F8DB66B9DC2602A1D2E38403D2C7C9C3A21755" : 9223372036854775807,
+    "D67D2E8C395C2FDE73A1C17891616C541DFE0087" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C44330E9-4927-41E2-9F91-331E81439415",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "93F8DB66B9DC2602A1D2E38403D2C7C9C3A21755" : "MobiServer\/MobiServer\/",
+    "D67D2E8C395C2FDE73A1C17891616C541DFE0087" : "MobiServer\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MobiServer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MobiServer.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/chandansingh5\/SwiftSearchWithAPI",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93F8DB66B9DC2602A1D2E38403D2C7C9C3A21755"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/chandansingh5\/Demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D67D2E8C395C2FDE73A1C17891616C541DFE0087"
+    }
+  ]
+}
